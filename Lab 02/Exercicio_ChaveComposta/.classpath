@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_191">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Dropbox/Work/FIAP/2019/34SCJ/PJ/libs_jpa/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/Dropbox/Work/FIAP/2019/34SCJ/PJ/libs_jpa/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Dropbox/Work/FIAP/2019/34SCJ/PJ/libs_jpa/hibernate-commons-annotations-4.0.5.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Dropbox/Work/FIAP/2019/34SCJ/PJ/libs_jpa/hibernate-core-4.3.7.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Dropbox/Work/FIAP/2019/34SCJ/PJ/libs_jpa/hibernate-entitymanager-4.3.7.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Dropbox/Work/FIAP/2019/34SCJ/PJ/libs_jpa/hibernate-jpa-2.1-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Dropbox/Work/FIAP/2019/34SCJ/PJ/libs_jpa/jandex-1.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Dropbox/Work/FIAP/2019/34SCJ/PJ/libs_jpa/javassist-3.18.1-GA.jar"/>
+	<classpathentry kind="lib" path="C:/Dropbox/Work/FIAP/2019/34SCJ/PJ/libs_jpa/jboss-logging-3.1.3.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Dropbox/Work/FIAP/2019/34SCJ/PJ/libs_jpa/jboss-logging-annotations-1.2.0.Beta1.jar"/>
+	<classpathentry kind="lib" path="C:/Dropbox/Work/FIAP/2019/34SCJ/PJ/libs_jpa/jboss-transaction-api_1.2_spec-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rafae/Downloads/mysql-connector-java-8.0.14.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
